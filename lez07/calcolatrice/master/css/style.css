@@ -1,0 +1,22 @@
+h2 {
+    color: red;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+nav a.active {
+    background-color: #6fcb9f;
+}
+
+nav a.inactive {
+    background-color: #ffe28a;
+}
