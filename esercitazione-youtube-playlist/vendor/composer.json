@@ -1,0 +1,14 @@
+{
+    "name": "nicolo/galizia",
+    "autoload": {
+        "psr-4": {
+            "Nicolo\\Galizia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Galizia Nicolò"
+        }
+    ],
+    "require": {}
+}
